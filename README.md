@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Jama</h1>
-<h3 align="center">I'm a fullstack Software Developer from Minneapolis,MN</h3>
+<h3 align="center">I'm a fullstack Software Developer in Minneapolis,MN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamabdi&label=Profile%20views&color=0e75b6&style=flat" alt="jamabdi" /> </p>
 
